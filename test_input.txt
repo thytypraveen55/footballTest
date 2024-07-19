@@ -1,0 +1,5 @@
+Germany;Spain;win
+France;Germany;win
+Poland;Spain;loss
+Spain;France;loss
+Germany;Poland;win

@@ -1,0 +1,5 @@
+Team	MP	W	L	P
+Germany	1	1	0	3
+Poland	1	1	0	3
+Spain	2	1	1	3
+France	2	0	2	0
